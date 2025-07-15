@@ -2,7 +2,7 @@ HideXamlXbox is a simple executable that hides the annoying "DesktopWindowXamlSo
 
 https://youtu.be/4xNZO-nCAc8
 
-⚠️ Just a few hours after I posted this solution, MS released an Xbox app update (2507.1001.9.0) with a fix. You should update the Xbox app, but my method works too.
+⚠️ Just a few hours after I posted this solution, MS released an Xbox app update (2507.1001.9.0) with a fix. You should update the Xbox app, but this solution works too.
 
 <img width="556" height="383" alt="image" src="https://github.com/user-attachments/assets/b352b284-df3b-4ce7-9be6-6f63ec573f5f" />
 
