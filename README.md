@@ -8,5 +8,4 @@ HideXamlXbox is a simple executable that hides the annoying "DesktopWindowXamlSo
 
 https://youtu.be/4xNZO-nCAc8
 
-
 If you want to create a shortcut, the path to the Xbox App icon will be something like this: %ProgramFiles%\WindowsApps\Microsoft.GamingApp_2506.1001.20.0_x64__8wekyb3d8bbwe\XboxPcApp.exe
